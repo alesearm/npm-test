@@ -11,6 +11,7 @@
   "dependencies": {
     "animejs": "^3.2.2",
     "chart.js": "^4.4.1",
-    "save": "^2.9.0"
+    "save": "^2.9.0",
+    "zdog": "^1.1.3"
   }
 }
